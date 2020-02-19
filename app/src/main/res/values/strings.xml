@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VIP</string>
+    <string name="action_settings">Settings</string>\
+    <string name="two">Introducing our \"Volunteer in Progress\" (VIP) program. Sign up with your details, if you are interested about influencing people, and making more and more individuals excited about technology.</string>
+    <string name="three">All the details must be correct. Incomplete forms will not be accepted.
+Forms with inappropriate answers will be rejected and would not be considered for submission.
+The shortlisted candidates would be called for Personal Interview.</string>
+    <string name="title_activity_input">input</string>
+    <string-array name="year">
+        <item>Select Year</item>
+        <item>I year</item>
+        <item>II year</item>
+        <item>III year</item>
+        <item>IV year</item>
+        <item>V year</item>
+        <item>Professional</item>
+    </string-array>
+    <string name="title_activity_form">form</string>
+    <string name="pr">Select Year</string>
+    <string name="title_activity_success_spalsh">SuccessSpalsh</string>
+</resources>
