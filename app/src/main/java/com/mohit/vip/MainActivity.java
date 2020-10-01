@@ -16,7 +16,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button b1;
+    Button b1;// make it private
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
